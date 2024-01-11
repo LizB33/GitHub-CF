@@ -44,6 +44,6 @@ Resources:
       Tags:
         - Key: Name
           Value: private-subnet 
-        - key: update
-          value: Git
+        - Key: update
+          Value: Git
   
